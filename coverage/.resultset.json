@@ -7,14 +7,28 @@
           null,
           1,
           1,
-          0,
+          1,
           null,
           null,
           1,
           null
         ]
+      },
+      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/features/test_page_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1583764688
+    "timestamp": 1583765586
   }
 }
