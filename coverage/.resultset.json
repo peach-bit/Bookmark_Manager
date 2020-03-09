@@ -11,6 +11,24 @@
           null,
           null,
           1,
+          1,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/features/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -29,6 +47,6 @@
         ]
       }
     },
-    "timestamp": 1583765708
+    "timestamp": 1583766979
   }
 }
