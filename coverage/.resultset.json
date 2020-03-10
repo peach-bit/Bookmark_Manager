@@ -4,17 +4,62 @@
       "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/app.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          1,
           null,
           1,
           1,
           1,
+          1,
           null,
           null,
+          1,
+          null
+        ]
+      },
+      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/lib/bookmarkclass.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          5,
+          null,
+          null,
+          1,
+          4,
+          4,
+          28,
+          null,
+          null
+        ]
+      },
+      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/bookmarkclass_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          5,
           1,
           1,
           null,
           null,
           1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -31,22 +76,8 @@
           null,
           null
         ]
-      },
-      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/features/test_page_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
       }
     },
-    "timestamp": 1583766979
+    "timestamp": 1583857569
   }
 }

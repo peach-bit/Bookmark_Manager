@@ -1,12 +1,13 @@
 require 'sinatra/base'
+require './lib/bookmarkclass'
+require 'pg'
 
 class BookmarkManager < Sinatra::Base
-  get '/test' do
-    erb (:index)
-  end
 
-  get '/bookmarks' do
-    erb(:index)
+  get '/' do
+    bookmark = Bookmarks.new
+    @message = bookmark.all
+    erb :index
   end
 
   run! if app_file == $0
