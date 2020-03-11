@@ -1,6 +1,20 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/setup_test_database.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          5,
+          null,
+          5,
+          null,
+          null,
+          5,
+          null
+        ]
+      },
       "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/app.rb": {
         "lines": [
           1,
@@ -10,6 +24,7 @@
           1,
           null,
           1,
+          null,
           1,
           1,
           1,
@@ -32,7 +47,12 @@
           1,
           4,
           4,
-          28,
+          null,
+          0,
+          null,
+          null,
+          4,
+          16,
           null,
           null
         ]
@@ -56,6 +76,13 @@
           null,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
           1,
           1,
           null,
@@ -72,12 +99,17 @@
           1,
           1,
           1,
+          1,
+          1,
           null,
+          1,
+          null,
+          1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1583857569
+    "timestamp": 1583938981
   }
 }

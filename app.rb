@@ -5,6 +5,7 @@ require 'pg'
 class BookmarkManager < Sinatra::Base
 
   get '/' do
+    
     bookmark = Bookmarks.new
     @message = bookmark.all
     erb :index
