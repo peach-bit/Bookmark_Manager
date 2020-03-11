@@ -5,16 +5,14 @@ require 'pg'
 class BookmarkManager < Sinatra::Base
 
   get '/' do
-    
-    bookmark = Bookmarks.new
-    @message = bookmark.all
+
+    @bookmark = Bookmarks.all
+    @message = @bookmark
     erb :index
   end
 
   post '/' do
-    url = params['url']
-    connection = PG.connect(dbname: 'bookmark_manager_test')
-    connection.exec("INSERT INTO bookmarks (url) VALUES('#{url}')")
+    Bookmarks.create(url: params[:url])
     redirect '/'
   end
 

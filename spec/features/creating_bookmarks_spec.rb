@@ -1,3 +1,4 @@
+require './lib/bookmarkclass'
 feature "Adding a new bookmark" do
   scenario "user can add a bookmark" do
     visit('/add')
