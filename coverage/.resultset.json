@@ -1,21 +1,21 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/setup_test_database.rb": {
+      "/Users/nora.vandenheuvel/Makers/bookmark-pair/Bookmark_Manager/spec/setup_test_database.rb": {
         "lines": [
           1,
           null,
           1,
-          5,
+          6,
           null,
-          5,
+          6,
           null,
           null,
-          5,
+          6,
           null
         ]
       },
-      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/app.rb": {
+      "/Users/nora.vandenheuvel/Makers/bookmark-pair/Bookmark_Manager/app.rb": {
         "lines": [
           1,
           1,
@@ -25,7 +25,18 @@
           null,
           1,
           null,
+          2,
+          2,
+          2,
+          null,
+          null,
           1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           1,
           1,
           null,
@@ -34,30 +45,30 @@
           null
         ]
       },
-      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/lib/bookmarkclass.rb": {
+      "/Users/nora.vandenheuvel/Makers/bookmark-pair/Bookmark_Manager/lib/bookmarkclass.rb": {
         "lines": [
           1,
           1,
           null,
           1,
           1,
-          5,
+          6,
           null,
           null,
           1,
-          4,
-          4,
+          5,
+          5,
           null,
           0,
           null,
           null,
-          4,
-          16,
+          5,
+          18,
           null,
           null
         ]
       },
-      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/bookmarkclass_spec.rb": {
+      "/Users/nora.vandenheuvel/Makers/bookmark-pair/Bookmark_Manager/spec/bookmarkclass_spec.rb": {
         "lines": [
           1,
           null,
@@ -90,7 +101,20 @@
           null
         ]
       },
-      "/Users/hodan/projects/Bookmark_Manager/Bookmark_Manager/spec/features/index_spec.rb": {
+      "/Users/nora.vandenheuvel/Makers/bookmark-pair/Bookmark_Manager/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/nora.vandenheuvel/Makers/bookmark-pair/Bookmark_Manager/spec/features/index_spec.rb": {
         "lines": [
           1,
           null,
@@ -110,6 +134,6 @@
         ]
       }
     },
-    "timestamp": 1583938981
+    "timestamp": 1583940264
   }
 }
